@@ -27,3 +27,4 @@ I choose idea No. [number]. Help craft a complete post: give 3‑5 angles; prov
 # ## Additional Templates
 
 ✦ [Confession Prompt for Self Review](confession-prompt.md)
+✦ [Confession Self Audit Method](confession-self-audit.md)
