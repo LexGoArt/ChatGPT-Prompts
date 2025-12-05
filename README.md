@@ -23,3 +23,7 @@ I choose idea No. [number]. Help craft a complete post: give 3‑5 angles; prov
 ```
 
 > **Pro tip:** Save your best ideas and come back to them in the same chat—this helps GPT maintain context and respond more accurately.
+
+# ## Additional Templates
+
+✦ [Confession Prompt for Self Review](confession-prompt.md)
